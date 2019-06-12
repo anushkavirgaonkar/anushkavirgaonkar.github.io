@@ -29,20 +29,16 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
-
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: https://www.facebook.com/anushka.virgaonkar
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+ instagram: @anushka.virgaonkar
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: anushkavirgaonkar
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,10 +47,10 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: anushka18599@gmail.com
 
 authors:
-    johndoe:
+    anushkavirgaonkar:
         name: Anushka Virgaonkar
         bio: Tech, fitness and randomness
         external-image: false
