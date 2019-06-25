@@ -31,7 +31,7 @@ description: Basic theoretical concepts in computer forensics.
 
    ![When old data are overwritten with new data, some of the old data can remain.](cftc_fig2.png)
 	<img src="/assets/images/cftc_fig2.png"
-     alt="Markdown Monster icon"
+     alt=""
      style="float: left; margin-right: 10px;" />
 3. **Data Hiding**  
 
