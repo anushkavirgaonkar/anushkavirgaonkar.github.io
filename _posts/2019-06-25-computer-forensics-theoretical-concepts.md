@@ -29,15 +29,16 @@ description: Basic theoretical concepts in computer forensics.
 
    Hard disks are the richest source for digital evidence. When a file is deleted, its entry in the file system is updated to indicate it's deleted status and the clusters that were previously allocated to storing are unallocated and can be reused to store a new file. However, the data are left on the disk and it is often possible to retrieve a file immediately after it has been deleted. The data will remain on the disk until a new file overwrites them. However, if a new file does not take up the entire cluster, a portion of the old file might remain in the slack space. In this case, a portion of a file can be retrieved long after it has been deleted and partially overwritten.  
 
-   ![When old data are overwritten with new data, some of the old data can remain.](cftc_fig2.png)
-	<img src="/assets/images/cftc_fig2.png"
-     alt=""
-     style="float: left; margin-right: 10px;" />
+   ![When old data are overwritten with new data, some of the old data can remain.](/assets/images/cftc_fig2.png)  
+
+
+   
 3. **Data Hiding**  
 
    A file system may not use an entire partition. The space after the end of the volume called volume slack that can be used to hide data. The space between partitions is also vulnerable for hiding data. File slack space is another hidden storage. 
 
-   ![Slack space.](cftc_fig3.png)
+   ![Slack space.](/assets/images/cftc_fig3.png)  
+   
 
    Steganography is the technique of hiding secret data within an ordinary, non-secret, file or message in order to avoid detection. Forensic tools are used to extract the hidden file from the steganographic image. Other forms of data hiding involve the use of tools and techniques to hide data throughout various locations in a computer system. Some of these places can include memory, slack space, hidden directories, bad blocks, alternate data streams, and hidden partitions. 
 
