@@ -12,7 +12,7 @@ author: anushkavirgaonkar
 description: Basic theoretical concepts in computer forensics.
 ---
 
-### **File Formats and Carving**  
+## **File Formats and Carving**  
 
    Files of different kinds have different file structures. For example, a PNG file has a completely different structure than a Microsoft Word document, starting from the first few bytes of at the beginning, continuing into the locations where data are stored in the main body and terminating with a few distinctive bytes at the end of the file. The common headers of these file types are known as file signatures. They can be used to locate and salvage portions of deleted files. The process of searching for a certain file signature and attempting to extract the associated data is called “carving” because it conceptually involves cutting a specific piece of data out of a larger dataset.
     
@@ -25,7 +25,7 @@ description: Basic theoretical concepts in computer forensics.
    | GIF	    | 47 49 46 38 39 61 4E 01 53 00 C4 | 21 00 00 3B 00                                                                                                 |  
    | PDF	    | 25 50 44 46 2D 31 2E             | 25 25 45 4F 46                                                                                                 |  
  
-### **Data Recovery**  
+## **Data Recovery**  
 
    Hard disks are the richest source for digital evidence. When a file is deleted, its entry in the file system is updated to indicate it's deleted status and the clusters that were previously allocated to storing are unallocated and can be reused to store a new file. However, the data are left on the disk and it is often possible to retrieve a file immediately after it has been deleted. The data will remain on the disk until a new file overwrites them. However, if a new file does not take up the entire cluster, a portion of the old file might remain in the slack space. In this case, a portion of a file can be retrieved long after it has been deleted and partially overwritten.   
 
@@ -33,7 +33,7 @@ description: Basic theoretical concepts in computer forensics.
 
 
    
-### **Data Hiding**  
+## **Data Hiding**  
 
    A file system may not use an entire partition. The space after the end of the volume called volume slack that can be used to hide data. The space between partitions is also vulnerable for hiding data. File slack space is another hidden storage.  
 
