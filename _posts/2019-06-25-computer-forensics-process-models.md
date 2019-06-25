@@ -19,7 +19,7 @@ Ultimately, these process models are intended to serve digital investigations an
 </p>
 <p align="center">
 The most common steps for conducting a complete and competent digital investigation are:
-
+</p>
 1. Preparation: Generating a plan of action to conduct an effective digital investigation and obtaining supporting resources and materials.
 
 2. Survey/ Identification: Finding potential sources of digital evidence. It involves identifying the evidence.
@@ -29,4 +29,3 @@ The most common steps for conducting a complete and competent digital investigat
 4. Examination and analysis: Searching for and interpreting trace evidence. Forensic examination is the process of extracting and viewing information from the evidence and making it available for analysis. Forensic analysis is the application of the scientific method and critical thinking to address the fundamental questions in an investigation.
 
 5. Presentation: Reporting of findings in a manner which satisfies the context of the investigation.
-</p>
