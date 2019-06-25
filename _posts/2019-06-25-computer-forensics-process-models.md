@@ -11,7 +11,7 @@ category: blog
 author: anushkavirgaonkar  
 description: Process models in computer forensics.
 ---
-
+<p align="center">
 When attempting to conceive a general approach to describe the investigation process within digital forensics, one should make such a process generalizable. The process models are a number of models that are used for describing investigations. They serve as a useful point of reference for reflecting on the state and nature of the field. Using a systematic methodology encourages a complete, rigorous investigation and ensures proper evidence handling while reducing the chance for errors created by preconceived theories, time pressures and other potential pitfalls.  
 
 Ultimately, these process models are intended to serve digital investigations and not to dictate. Every investigation is unique and can bring unforeseeable challenges. Thus, process models should only be viewed as a foundation or framework upon which to build. 
@@ -27,3 +27,4 @@ The most common steps for conducting a complete and competent digital investigat
 4. Examination and analysis: Searching for and interpreting trace evidence. Forensic examination is the process of extracting and viewing information from the evidence and making it available for analysis. Forensic analysis is the application of the scientific method and critical thinking to address the fundamental questions in an investigation.
 
 5. Presentation: Reporting of findings in a manner which satisfies the context of the investigation.
+</p>
