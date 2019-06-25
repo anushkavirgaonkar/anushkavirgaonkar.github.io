@@ -12,8 +12,6 @@ author: anushkavirgaonkar
 description: Process models in computer forensics.
 ---
 
-## <center> Cyber Forensics: Process Models </center>
-
 When attempting to conceive a general approach to describe the investigation process within digital forensics, one should make such a process generalizable. The process models are a number of models that are used for describing investigations. They serve as a useful point of reference for reflecting on the state and nature of the field. Using a systematic methodology encourages a complete, rigorous investigation and ensures proper evidence handling while reducing the chance for errors created by preconceived theories, time pressures and other potential pitfalls.  
 
 Ultimately, these process models are intended to serve digital investigations and not to dictate. Every investigation is unique and can bring unforeseeable challenges. Thus, process models should only be viewed as a foundation or framework upon which to build. 
