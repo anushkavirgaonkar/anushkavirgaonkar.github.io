@@ -30,7 +30,7 @@ description: Basic theoretical concepts in computer forensics.
    Hard disks are the richest source for digital evidence. When a file is deleted, its entry in the file system is updated to indicate it's deleted status and the clusters that were previously allocated to storing are unallocated and can be reused to store a new file. However, the data are left on the disk and it is often possible to retrieve a file immediately after it has been deleted. The data will remain on the disk until a new file overwrites them. However, if a new file does not take up the entire cluster, a portion of the old file might remain in the slack space. In this case, a portion of a file can be retrieved long after it has been deleted and partially overwritten.  
 
    ![When old data are overwritten with new data, some of the old data can remain.](cftc_fig2.png)
-	<img src="cftc_fig2.png"
+	<img src="/assets/images/cftc_fig2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 3. **Data Hiding**  
