@@ -3,25 +3,13 @@ title: About
 layout: page
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a software engineer who has an interest in the fields of cyber security, computer networking, operating systems and database management systems. Being a cyber security enthusiast, I have introduced and organized a cyber security and ethical hacking event 'Lakshya', in PICT InC'19. It has developed my leadership, public speaking and management skills. I love to explore the field of computer science and aspire to contribute towards it.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML/CSS</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript</li>
 	<li>AngularJS</li>
 	<li>Git</li>
@@ -33,12 +21,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>R</li>
 	<li>MySQL - MongoDB</li>
 	<li>Django</li>
+	<li>Scala</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/anushkavirgaonkar/CTFLearn_writeups">CTFLearn writeups</a></li>
+	<li><a href="https://github.com/anushkavirgaonkar/access-cmd">Ruby on rails web application for executing commands on a remote machine.</a></li>
+	<li><a href="https://github.com/anushkavirgaonkar/thinkblog">Blogging site.</a></li>
 </ul>
