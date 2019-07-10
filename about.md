@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<p>I am a software engineer who has an interest in the fields of cyber security, computer networking, operating systems and database management systems. Being a cyber security enthusiast, I have introduced and organized a cyber security and ethical hacking event 'Lakshya', in PICT InC'19. It has developed my leadership, public speaking and management skills. I love to explore the field of computer science and aspire to contribute towards it.</p>
+<p><center>I am a software engineer who has an interest in the fields of cyber security, computer networking, operating systems and database management systems. Being a cyber security enthusiast, I have introduced and organized a cyber security and ethical hacking event 'Lakshya', in PICT InC'19. It has developed my leadership, public speaking and management skills. I love to explore the field of computer science and aspire to contribute towards it.</center></p>
 
 
 <h2>Skills</h2>
