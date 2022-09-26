@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Chaitanya Rahalkar</title>
-    <link>https://rahalkar.dev/tags/demo/</link>
-      <atom:link href="https://rahalkar.dev/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Demo | Anushka Virgaonkar</title>
+    <link>https://anushkavirgaonkar.dev/tags/demo/</link>
+      <atom:link href="https://anushkavirgaonkar.dev/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Anushka Virgaonkar © 2022</copyright><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rahalkar.dev/img/icon-192.png</url>
+      <url>https://anushkavirgaonkar.dev/img/icon-192.png</url>
       <title>Demo</title>
-      <link>https://rahalkar.dev/tags/demo/</link>
+      <link>https://anushkavirgaonkar.dev/tags/demo/</link>
     </image>
     
     <item>
       <title>Cedit</title>
-      <link>https://rahalkar.dev/project/cedit/</link>
+      <link>https://anushkavirgaonkar.dev/project/p2send/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/project/cedit/</guid>
+      <guid>https://anushkavirgaonkar.dev/project/p2send/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frost Linux</title>
-      <link>https://rahalkar.dev/project/frost-linux/</link>
+      <link>https://anushkavirgaonkar.dev/project/frost-linux/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/project/frost-linux/</guid>
+      <guid>https://anushkavirgaonkar.dev/project/frost-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Password Manager</title>
-      <link>https://rahalkar.dev/project/password-manager/</link>
+      <link>https://anushkavirgaonkar.dev/project/password-manager/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/project/password-manager/</guid>
+      <guid>https://anushkavirgaonkar.dev/project/password-manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebTTY</title>
-      <link>https://rahalkar.dev/project/webtty/</link>
+      <link>https://anushkavirgaonkar.dev/project/webtty/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/project/webtty/</guid>
+      <guid>https://anushkavirgaonkar.dev/project/webtty/</guid>
       <description></description>
     </item>
     

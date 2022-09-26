@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resources | Chaitanya Rahalkar</title>
-    <link>https://rahalkar.dev/tags/resources/</link>
-      <atom:link href="https://rahalkar.dev/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <title>resources | Anushka Virgaonkar</title>
+    <link>https://anushkavirgaonkar.dev/tags/resources/</link>
+      <atom:link href="https://anushkavirgaonkar.dev/tags/resources/index.xml" rel="self" type="application/rss+xml" />
     <description>resources</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Anushka Virgaonkar © 2022</copyright>
     <image>
-      <url>https://rahalkar.dev/img/icon-192.png</url>
+      <url>https://anushkavirgaonkar.dev/img/icon-192.png</url>
       <title>resources</title>
-      <link>https://rahalkar.dev/tags/resources/</link>
+      <link>https://anushkavirgaonkar.dev/tags/resources/</link>
     </image>
     
     <item>
       <title>Awesome Learning</title>
-      <link>https://rahalkar.dev/awesome-learning/</link>
+      <link>https://anushkavirgaonkar.dev/awesome-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rahalkar.dev/awesome-learning/</guid>
+      <guid>https://anushkavirgaonkar.dev/awesome-learning/</guid>
       <description>
 
 &lt;p&gt;I love to explore the vast field of Computer Science. I&amp;rsquo;ve dabbled with a variety of stuff over the past few years. While doing so, I&amp;rsquo;ve had to invest considerable amount of time in digging up resources from the corners of the Web. Also, people often ask me for suggestions regarding tutorials and courses about something they wish to learn.&lt;/p&gt;
